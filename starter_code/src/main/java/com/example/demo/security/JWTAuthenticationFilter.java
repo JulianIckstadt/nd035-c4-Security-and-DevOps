@@ -1,7 +1,6 @@
 package com.example.demo.security;
 
 import com.auth0.jwt.JWT;
-import com.example.demo.controllers.UserController;
 import com.example.demo.model.persistence.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
